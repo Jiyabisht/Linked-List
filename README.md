@@ -5,3 +5,4 @@
 4. Deletion and updation
 5. Delete Alternate node
 6. Find Length of the linkedlist
+7. Linked List Cycle L-141
