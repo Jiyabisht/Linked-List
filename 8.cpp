@@ -30,7 +30,7 @@ public:
 // | Counting method    | O(n) | O(1)  | 2      |
 // | Slow-Fast pointers | O(n) | O(1)  | 1 ⭐    |
 
-//Fast and Slow approach
+//Fast and Slow approach------! pass solution in prev one 2 passes were done one in while one in for loop.
 
 /**
  * Definition for singly-linked list.
