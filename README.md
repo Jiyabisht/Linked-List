@@ -7,3 +7,5 @@
 6. Find Length of the linkedlist
 7. Linked List Cycle L-141 <mark>Fast and Slow Pointer</mark>
 8. Middle of a Linked List L-876 <mark>Fast and Slow Pointer</mark>
+9. Check if two LL are equal
+10. Reverse a LL L-206
