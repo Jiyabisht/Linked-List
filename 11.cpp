@@ -19,7 +19,7 @@ public:
         }
         ListNode*ptr2=head;
         for(int i=0;i<c/2;i++){
-            ptr2=ptr2->next;
+            ptr2=ptr2->next; 
         }
         ListNode*prev=NULL;
         while(ptr2!=NULL){
