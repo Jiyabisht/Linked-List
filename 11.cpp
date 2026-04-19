@@ -23,7 +23,7 @@ public:
         }
         ListNode*prev=NULL;
         while(ptr2!=NULL){
-            ListNode*next_node=ptr2->next;
+            ListNode*next_node=ptr2->next;         //reverse the entire 2nds half
             ptr2->next=prev;
             prev=ptr2;
             ptr2=next_node;
