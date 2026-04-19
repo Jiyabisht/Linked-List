@@ -9,3 +9,4 @@
 8. Middle of a Linked List L-876 <mark>Fast and Slow Pointer</mark>
 9. Check if two LL are equal
 10. Reverse a LL L-206
+11. LL is Pallindrome or not L-234
