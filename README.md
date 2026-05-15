@@ -10,3 +10,4 @@
 9. Check if two LL are equal
 10. Reverse a LL L-206
 11. LL is Pallindrome or not L-234
+12. Merge two Lists L-21
