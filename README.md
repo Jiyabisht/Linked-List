@@ -11,3 +11,4 @@
 10. Reverse a LL L-206
 11. LL is Pallindrome or not L-234
 12. Merge two Lists L-21
+13. Rotate a list by k steps <mark>Medium</mark>
