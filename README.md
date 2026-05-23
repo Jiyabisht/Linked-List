@@ -12,3 +12,4 @@
 11. LL is Pallindrome or not L-234
 12. Merge two Lists L-21
 13. Rotate a list by k steps <mark>Medium</mark>
+14. Remove nth element from end of the LL
