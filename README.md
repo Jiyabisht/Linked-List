@@ -13,4 +13,4 @@
 12. Merge two Lists L-21
 13. Rotate a list by k steps L-61 <mark>Medium</mark>
 14. Remove nth element from end of the LL L-19 <mark>Medium</mark>
-15. 
+15. Delete the Middle Node of a Linked List L-2095 <mark>Medium</mark>
